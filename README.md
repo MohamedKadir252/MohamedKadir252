@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋 Hi, I'm Mohamed!  
+### 🚀 Aspiring Developer | Passionate about Programming & Cybersecurity  
 
-<!--
-**MohamedKadir252/MohamedKadir252** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about **backend development**, **algorithms**, and **cybersecurity**. I'm currently learning **Python**, **SQL**, and **Linux**, and I share my projects here.  
 
-Here are some ideas to get you started:
+## 📌 Featured Projects  
+🔹 **[Bookbot](https://github.com/MohamedKadir252/bookbot)** → Command-line text analysis tool  
+🔹 **[Asteroids](https://github.com/MohamedKadir252/asteroids_game)** → Classic Asteroids game built with Pygame  
+🔹 **[Algorithm Practice](https://github.com/MohamedKadir252/algorithm-practice)** → Collection of algorithm exercises in Python  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Tools  
+💻 **Languages**: Python, SQL 
+🛠️ **Tools**: Git, Linux, VS Code  
+
+📩 **Contact**: mohamed.abdulkadir855@gmail.com  
