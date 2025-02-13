@@ -9,7 +9,7 @@ I'm passionate about **backend development**, **algorithms**, and **cybersecurit
 🔹 **[algorithm-practice](https://github.com/MohamedKadir252/algorithm-practic)** → Collection of algorithm exercises in Python  
 
 ## 🔧 Skills & Tools  
-💻 **Languages**: Python, SQL 
+💻 **Languages**: Python, C, SQL 
 🛠️ **Tools**: Git, Linux, VS Code  
 
 📩 **Contact**: mohamed.abdulkadir855@gmail.com  
