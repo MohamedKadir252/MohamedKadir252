@@ -6,7 +6,7 @@ I'm passionate about **backend development**, **algorithms**, and **cybersecurit
 ## 📌 Featured Projects  
 🔹 **[Bookbot](https://github.com/MohamedKadir252/bookbot)** → Command-line text analysis tool  
 🔹 **[Asteroids](https://github.com/MohamedKadir252/asteroids)** → Classic Asteroids game built with Pygame  
-🔹 **[algorithm-practic](https://github.com/MohamedKadir252/algorithm-practic)** → Collection of algorithm exercises in Python  
+🔹 **[algorithm-practice](https://github.com/MohamedKadir252/algorithm-practic)** → Collection of algorithm exercises in Python  
 
 ## 🔧 Skills & Tools  
 💻 **Languages**: Python, SQL 
